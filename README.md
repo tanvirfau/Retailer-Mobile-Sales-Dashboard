@@ -1,5 +1,7 @@
 # Retailer-Mobile-Sales-Dashboard
 
+![mobile-sales-dashboard](https://github.com/tanvirfau/Retailer-Mobile-Sales-Dashboard/blob/main/dashboard1.jpg)
+
 **Description**:  
 This project contains a Power BI dashboard that visualizes mobile sales data for a retail store that sells various mobile phones. The data includes transaction details such as brand, units sold, customer ratings, payment methods, and sales by day and month. The dashboard is designed to provide insightful visualizations to track the store’s sales performance and customer behavior.
 
